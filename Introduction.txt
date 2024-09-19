@@ -1,2 +1,3 @@
-Hello, my name is Semin Song.
-Nice to meet you.
+Python is a programming language that
+lets you work more quickly and intagrate
+your systems more effectively.
